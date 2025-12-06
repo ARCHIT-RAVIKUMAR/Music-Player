@@ -11,7 +11,7 @@ const allSongs = [
         title: "Scratching The Surface",
         artist: "Quincy Larson",
         duration: "4:25",
-        src: "https://s3.amazonaws.com/org.freecodecamp.mp3-player-project/scratching-the-surface.mp3",
+        src: "music/Jaalakaari From Balti-320kbps.mp3",
     },
     {
         id: 1,
